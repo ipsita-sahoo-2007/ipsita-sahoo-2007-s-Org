@@ -1,0 +1,6 @@
+{
+  "name": "VisionGuard AI",
+  "description": "Enterprise AI-Powered Computer Vision & Visual Intelligence Platform for industrial QC, workplace safety, infrastructure, and document inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
